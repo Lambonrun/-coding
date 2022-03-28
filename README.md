@@ -1,0 +1,2 @@
+DATA文件夹储存数据
+直接运行nn.py即可，VSC中使用coderunner会报错，在debug模块运行即可。
